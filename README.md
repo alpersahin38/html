@@ -1,1 +1,1 @@
-# my sample projects for html
+# My sample projects for html.
